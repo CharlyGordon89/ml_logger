@@ -3,5 +3,5 @@ __pycache__/
 *.log
 logs/
 test_logs/
-
+ml_logger.egg-info/
 
