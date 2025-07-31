@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-*.log
-logs/
-test_logs/
-
